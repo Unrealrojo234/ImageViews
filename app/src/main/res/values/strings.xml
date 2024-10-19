@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title">Learning Image View</string>
+    <string name="linearLayout">This is a an example of a linear layout</string>
+    <string name="btnText">SUBSCRIBE</string>
+    <string name="hello_linear_layout">Hello Linear Layout</string>
+    <string name="audio_file_icon">audio file icon</string>
+</resources>
